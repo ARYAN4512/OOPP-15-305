@@ -1,4 +1,3 @@
-// Swapping by reference function and swapping by address function
 #include<iostream>
 using namespace std;
 void swap(int &a, int &b) { 

@@ -1,7 +1,3 @@
-//  write a program to take input for any student like name branch roll number and 
-// marks of 5 subjects . find out the total and percentage of marks with the help
-//  of modular programming.
-
 #include<iostream>
 using namespace std;
 void input( string &name, string &branch, int &roll_number, int marks[]) {
