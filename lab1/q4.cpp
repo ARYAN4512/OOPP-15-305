@@ -3,7 +3,7 @@ using namespace std;
 
 class Point {
 private:
-    int x, y;
+    int x,y;
 
 public:
    
